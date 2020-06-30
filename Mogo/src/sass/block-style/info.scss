@@ -1,0 +1,29 @@
+.info {
+    background-color: #95e1d3;
+    width: 100%;
+    height: 270px;
+}
+.info__counter {
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.info__list {
+    text-align: center;
+}
+.info__number{
+    font-family: "Montserrat";
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 1.2;
+    color: white;
+}
+.info__description {
+    font-family: "Montserrat";
+    font-weight: 400;
+    text-transform: uppercase;
+    font-size: 14px;
+    line-height: 1.2;
+    color: white;
+}
